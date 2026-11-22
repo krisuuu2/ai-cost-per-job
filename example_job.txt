@@ -1,0 +1,65 @@
+You run a small online shoe shop. Below are 60 customer reviews.
+1) Count how many reviews complain about each of these problems: late delivery, damaged packaging, wrong size. Give the counts as JSON on the first line.
+2) Then write one short, friendly reply (max 3 sentences) that the shop can send to customers with each problem.
+
+Reviews:
+1. Love them, super comfortable all day.
+2. Looks exactly like the photos.
+3. The box was crushed and one shoe had a scratch.
+4. Delivery was late again, 8 days this time.
+5. Shipping took forever, almost 8 days past the date you promised.
+6. Looks exactly like the photos.
+7. Comfortable from day one, no blisters.
+8. Delivery was late again, 3 days this time.
+9. Shipping took forever, almost 3 days past the date you promised.
+10. They run very small, order one size up.
+11. Fast reply from support when I had a question.
+12. Fast reply from support when I had a question.
+13. Parcel was wet and the box fell apart.
+14. Packaging was torn open when it arrived.
+15. Comfortable from day one, no blisters.
+16. Looks exactly like the photos.
+17. Fast reply from support when I had a question.
+18. They run very small, order one size up.
+19. Wrong size in the box, I ordered 39 and got 41.
+20. Great shoes but they arrived 4 days after my trip, so useless for the trip.
+21. My order came 9 days late and nobody told me why.
+22. The courier kept postponing, the parcel was 3 days late.
+23. Second pair I bought, still happy.
+24. Wrong size in the box, I ordered 39 and got 41.
+25. The box was crushed and one shoe had a scratch.
+26. Nice quality for the price.
+27. The box was crushed and one shoe had a scratch.
+28. Looks exactly like the photos.
+29. Love them, super comfortable all day.
+30. Fast reply from support when I had a question.
+31. Size 42 fits like a 40, I had to send them back.
+32. The courier kept postponing, the parcel was 3 days late.
+33. Second pair I bought, still happy.
+34. Looks exactly like the photos.
+35. Packaging was torn open when it arrived.
+36. My order came 7 days late and nobody told me why.
+37. Fast reply from support when I had a question.
+38. Size 42 fits like a 40, I had to send them back.
+39. Second pair I bought, still happy.
+40. Nice quality for the price.
+41. Fast reply from support when I had a question.
+42. Packaging was torn open when it arrived.
+43. Looks exactly like the photos.
+44. The shoebox came completely smashed.
+45. Nice quality for the price.
+46. Looks exactly like the photos.
+47. Second pair I bought, still happy.
+48. Second pair I bought, still happy.
+49. My order came 3 days late and nobody told me why.
+50. Second pair I bought, still happy.
+51. Comfortable from day one, no blisters.
+52. Shipping took forever, almost 3 days past the date you promised.
+53. Parcel was wet and the box fell apart.
+54. Nice quality for the price.
+55. The courier kept postponing, the parcel was 6 days late.
+56. Size 42 fits like a 40, I had to send them back.
+57. Love them, super comfortable all day.
+58. My order came 6 days late and nobody told me why.
+59. Great shoes but they arrived 7 days after my trip, so useless for the trip.
+60. Comfortable from day one, no blisters.
